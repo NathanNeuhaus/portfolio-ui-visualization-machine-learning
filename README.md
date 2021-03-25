@@ -3,8 +3,8 @@
 Visit at: https://nathanneuhaus.github.io/ui-visualization-machine-learning/
 
 Follow these steps:
-(1) Copy data from iris-data-set.txt
-(2) Open the above link
+(1) Copy data from iris-data-set.txt\
+(2) Open the above link\
 (3) Click the spreadsheet icon in bottom-left corner of the screen
 (4) Click anywhere in spreadsheet and paste data
 (5) Click the graph icon that is the second icon from bottom-left corner of the screen
