@@ -2,7 +2,7 @@
 
 Visit at: https://nathanneuhaus.github.io/ui-visualization-machine-learning/
 
-Follow these steps:
+Follow these steps for lossless multidimensional data visualization:
 
 (1) Copy data from iris-data-set.txt
 
@@ -21,5 +21,3 @@ Follow these steps:
 (8) Click until a desirable line is selected
 
 (9) Click the collapse-horizontal button and/or the collapse-vertical button to the right
-
-
