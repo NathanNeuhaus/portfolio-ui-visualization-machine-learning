@@ -1,6 +1,6 @@
 # ui-visualization-machine-learning
 
-Visit at: https://nathanneuhaus.github.io/ui-visualization-machine-learning/
+Visit at: https://nathanneuhaus.github.io/portfolio-ui-visualization-machine-learning/
 
 Follow these steps for lossless multidimensional data visualization:
 
